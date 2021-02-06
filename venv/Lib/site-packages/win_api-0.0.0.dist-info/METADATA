@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: win-api
+Version: 0.0.0
+Summary: Collection of packages utilizing Windows API. Alias for 'https://github.com/patrikkj/winapi'.
+Home-page: https://github.com/patrikkj/winapi
+Author: Patrik Kjærran
+Author-email: patrikkja@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+
+# winapi
+Collection of packages utilizing Windows API.
+
+
